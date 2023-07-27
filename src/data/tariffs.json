@@ -3,24 +3,34 @@
         "name": "Безлимитный 300",
         "price": "руб 300/мес",
         "speed": "до 10 Мбит/сек",
-        "description": "Объем включенного трафика не ограничен"
+        "description": "Объем включенного трафика не ограничен",
+        "name_bgcolor": "name_bgcolor_1",
+        "price_bgcolor": "price_bgcolor_1"   
     },
     {
         "name": "Безлимитный 450",
         "price": "руб 450/мес",
         "speed": "до 50 Мбит/сек",
-        "description": "Объем включенного трафика не ограничен"
+        "description": "Объем включенного трафика не ограничен",
+        "name_bgcolor": "name_bgcolor_2",
+        "price_bgcolor": "price_bgcolor_2"   
     },
     {
         "name": "Безлимитный 550",
         "price": "руб 550/мес",
         "speed": "до 100 Мбит/сек",
-        "description": "Объем включенного трафика не ограничен"
+        "description": "Объем включенного трафика не ограничен",
+        "name_bgcolor": "name_bgcolor_3",
+        "price_bgcolor": "price_bgcolor_3"   
+
     },
     {
         "name": "Безлимитный 1000",
         "price": "руб 1000/мес",
         "speed": "до 200 Мбит/сек",
-        "description": "Объем включенного трафика не ограничен"
+        "description": "Объем включенного трафика не ограничен",
+        "name_bgcolor": "name_bgcolor_4",
+        "price_bgcolor": "price_bgcolor_4"   
+
     }    
 ]
