@@ -8,11 +8,14 @@
     box-shadow: 0px 0px 15px black;
 }
 
-.name{
+.name,.speed,.price,.description{
     padding: 1rem;
-    color: white;
     border: 1px solid white;
     text-align: center;
+}
+
+.name,.price{
+    color: white;
 }
 
 .name_bgcolor_1{
@@ -31,13 +34,6 @@
     background-color: rgb(37, 37, 37);
 }
 
-.price{
-    padding: 1rem;
-    color: white;
-    border: 1px solid white;
-    text-align: center;
-}
-
 .price_bgcolor_1{
     background-color: rgb(2, 162, 255);
 }
@@ -54,18 +50,14 @@
     background-color: rgb(97, 97, 97);
 }
 
-.speed{
-    padding: 1rem;
-    background-color: rgb(243, 240, 240);
+.speed,.description{
     color: rgb(81, 81, 92);
-    border: 1px solid white;
-    text-align: center;
+}
+
+.speed{
+    background-color: rgb(243, 240, 240);
 }
 
 .description{
-    padding: 1rem;
     background-color: rgb(224, 222, 222);
-    color: rgb(81, 81, 92);
-    border: 1px solid white;
-    text-align: center;
 }
