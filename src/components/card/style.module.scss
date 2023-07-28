@@ -1,11 +1,15 @@
 .card{
     display: flex;
-    flex-direction: column;    
-    border: 2px solid white;
+    flex-direction: column;
+}
+
+.selected{
+    scale: 1.1;
+    box-shadow: 0px 0px 15px black;
 }
 
 .name{
-    padding: 20px;
+    padding: 1rem;
     color: white;
     border: 1px solid white;
     text-align: center;
@@ -28,7 +32,7 @@
 }
 
 .price{
-    padding: 20px;
+    padding: 1rem;
     color: white;
     border: 1px solid white;
     text-align: center;
@@ -51,7 +55,7 @@
 }
 
 .speed{
-    padding: 20px;
+    padding: 1rem;
     background-color: rgb(243, 240, 240);
     color: rgb(81, 81, 92);
     border: 1px solid white;
@@ -59,8 +63,9 @@
 }
 
 .description{
-    padding: 20px;
+    padding: 1rem;
     background-color: rgb(224, 222, 222);
     color: rgb(81, 81, 92);
+    border: 1px solid white;
     text-align: center;
 }
